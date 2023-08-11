@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/calendar
+    username: service_app
+    password: q1w2e3r4
